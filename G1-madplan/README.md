@@ -2,6 +2,9 @@
 
 Dette er en simpel app til at holde styr på madopskrifter og planlægge ugens mad. Man kan gemme sine yndlingsretter, sætte dem ind i en ugeplan for hver ugedag, og få en samlet indkøbsliste ud fra det man har valgt.
 
+https://github.com/user-attachments/assets/20efa9fa-16d9-40a2-be40-ed85c13a4e95
+
+
 ## Hvad kan appen
 
 1. Tilføje en ret med navn og ingredienser
